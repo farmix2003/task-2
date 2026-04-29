@@ -1,5 +1,7 @@
 git1 version of line 1
+git2 version of line 1
 git1 version of line 2
+git2 version of line 2
 line 3
 line 4
 line 5
@@ -8,3 +10,4 @@ line 7
 line 8
 line 9
 git1 version of line 10
+git2 version of line 10
