@@ -8,3 +8,8 @@ line 7
 line 8
 task2 line 9
 task2 line 10
+folder2 line 7
+folder2 line 8
+line 9
+line 10
+
